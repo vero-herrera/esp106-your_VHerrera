@@ -1,2 +1,2 @@
 # esp106-your_VHerrera
-This is my lab 5 submission 
+These are my lab submissions. They can also be found on the course Canvas.
